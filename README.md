@@ -2,13 +2,13 @@ Congratulations on completing class zero! We hope you enjoyed the class and are 
 
 # Option 1: On Your Own
 
-Modern advances in coding education has made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you learn to code on your own. 
+Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you learn to code on your own. 
 
-1. [Chris Pine's book](https://pine.fm/LearnToProgram/). This is the 
+1. [Chris Pine's book](https://pine.fm/LearnToProgram/). Chris Pine kindly puts up the first half of his book for free online and, in our opinion, this is the single best resource for absolute beginners learning to code. Though it suddenly increases in difficulty in the latter chapters, the first 8 or 9 chapters' pacing is excellent. You can also purchase the full book [here](http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/ref=sr_1_1?ie=UTF8&qid=1404839087&sr=8-1&keywords=chris+pine+learn+to+program).
 
-2. [Flatiron's pre-work](prework.flatironschool.com). This is one of the top three coding bootcamps in the city and they've published the prework they require of their students. If you can get through all of this twice - you just might have what it takes to get into Flatiron! 
+2. [Flatiron's pre-work](prework.flatironschool.com). This is one of the top three coding bootcamps in the city and they've published the prework they require of their students. If you can get through all of this twice - you just might have what it takes to get into Flatiron! This is a Ruby-based curriculum.
 
-3. [App Academy's prep work](github.com/appacademy/prep-work). This is App Academy's prep work. Parts of it is echoed in Flatiron's. It's worth doing both Flatiron's and App Academy's. 
+3. [App Academy's prep work](github.com/appacademy/prep-work). This is App Academy's prep work. Parts of it is echoed in Flatiron's. It's worth doing both Flatiron's and App Academy's. This is a Ruby-based curriculum.
 
 4. [How to count](http://www.amazon.com/How-Count-Programming-Mere-Mortals-ebook/dp/B005DPIKPE/ref=sr_1_1?ie=UTF8&qid=1403837433&sr=8-1&keywords=how+to+count). This book is a great intro on computer science concepts in layman's terms. It's a quick read and only $2.99. 
 
