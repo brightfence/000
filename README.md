@@ -1,4 +1,6 @@
-Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. Hold CMD (Mac) or CTRL (Windows) to click a link open in a new window.
+Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. 
+
+Tip: Hold CMD (Mac) or CTRL (Windows) to click open a link in a new window.
 
 # Option 1: On Your Own
 
