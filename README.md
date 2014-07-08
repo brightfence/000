@@ -27,36 +27,44 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 
 # Option 2: With BrightFence
 
-If you are more productive in a structured group setting, you might want to join our 001 class. In 001, we try to solve a major problem endemic to schools to create a uniquely awesome experience. 
+### Why 001
 
-All Schools have a major problem that they have yet solved: the bell curve. In every class across the world, student ability naturally spreads out into a bell curve. Those ahead of the curve become frustrated at the pace that's too slow. And the problem hits students behind the curve even harder: as they slip farther and farther behind, frustration either builds up into panic or deflates into discouragement and eventually detachment. That's what happens all across the world. 
+If you are more productive in a structured group setting, you might want to try our 001 class. In 001, we're trying to create a uniquely awesome classroom experience by trying to solve a major problem endemic to schools. 
 
-At BrightFence, we're taking a big swing at this problem so that your pace in relation to other students **won't matter**. You set and go at your own pace. Here's how we're doing it: 
+First, some background. All schools share a bell curve problem. This is where, in any given class, student ability naturally spreads out into a [bell-shaped curve](http://en.wikipedia.org/wiki/The_Bell_Curve). Those to the right (ahead) of the curve will get increasingly frustrated at the slow pace while those to the left slip farther and farther behind. For the latter group it's especially tough: the frustration and discouragement either build up into full-blown panic or deflate into detachment. It's a huge headache for educators and teachers. 
 
-* 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability Coding"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one).
-* A la carte model 
-* At your own pace model
-* An unheard of 50% in-class student to Teacher's Assistant (TA) ratio
+With 001, we're taking a big swing at this problem. We're attempting to make it so that your pace in relation to other students **won't matter**. You set your own pace and go while retaining the benefits of a classroom setting. Here are the five ways we are innovating to solve this: 
 
-To accomplish the above lofty goals, we created a premium course offering we call **001.**  Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. Applying to reserve a seat sooner than later. :)
+1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability Coding"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one). This laser focus removes a lot of overhead filler from the classroom. 
+2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. And these labs are all self paced! 
+3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. Classes are designed for maximum flexibility. 
+4. Classes are *a la carte*. A lot of students have inflexible schedules and we don't want to penalize them. And so, students will be able to pay on a per-class basis and pay for just those classes they can attend. This is by far the fairest pricing model we came up with - in fact, we can't think a fairer model! 
+5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 5% of a classroom body, maxing out at around 10% at places like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest % makeup in today's market, and then *tripling* it! 
 
+To accomplish the above lofty goals, **001** has been created as *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest applying to reserve a seat sooner than later. :)
+
+
+### Requirements
 
 Instructions on 40 WPM touch typing requirement 
+
 Instructions on creating a github account
-Provide 001 schedule (and get feedback if can’t attend)
-instructions on how to prepay for a limited class 001 spot
-fill out an application form 
-Experienced folks who didn’t attend 000 also receive above Github “000” page
+
+fill out an application form to receive pricing and scheduling (also feedback on scheduling). 
 
 
 
+### Suggestions
+
+Get involved in news
 
 https://news.ycombinator.com/
-
 http://techcrunch.com/
 
 http://www.producthunt.com/
 
 http://www.reddit.com/
+
+
 
 
