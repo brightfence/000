@@ -25,7 +25,7 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 
 
 
-# Option 2: With BrightFence
+# Option 2: Class 001
 
 ### Why 001
 
