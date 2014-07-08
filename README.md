@@ -1,4 +1,4 @@
-Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. 
+Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. Hold CMD (Mac) or CTRL (Windows) to click a link open in a new window.
 
 # Option 1: On Your Own
 
@@ -16,14 +16,29 @@ Modern advances in coding education have made it easier than ever to learn to co
 
 6. [Stackoverflow](http://stackoverflow.com/).  Stackoverflow is a community of developers and engineers - and lots of Rubyists! -  who are incentivized to help each other. As a beginner, 99% of the questions you will have will already be answered on Stackoverflow. Like Google, Stackoverflow is an indispensable resource for programmers. 
 
-7. [Touch typing](http://touchtype.co/index.php/typing/tests/41). Knowing how to type is a strong requirement for coding. You should type 40+ *“real WPM"* on this test without looking at your keyboard. Here’s how we calculate "real WPM": 
+7. [Touch typing test](http://touchtype.co/index.php/typing/tests/41). Knowing how to type is a strong requirement for coding. You should type 40+ *“real WPM"* on the test without looking at your keyboard. Here’s how we calculate "real WPM": 
 `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
-And that's it! While the list seems scant, it will actually keep you busy for months (Flatiron and App Academy's curricula are hundreds of hours each).  
+And that's it! While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula will take hundreds of hours *each*). 
 
 
 
 # Option 2: With BrightFence
+
+If you work better in groups, we encourage you to join our class. We are trying to solve some major challenges with education with a few major innovations that we think will really make your experience fantastic. 
+* A la carte model
+* At your own pace model
+* An unheard of 1:2 in class student to TA ratio
+* 
+
+
+
+Instructions on 40 WPM touch typing requirement 
+Instructions on creating a github account
+Provide 001 schedule (and get feedback if can’t attend)
+instructions on how to prepay for a limited class 001 spot
+fill out an application form 
+Experienced folks who didn’t attend 000 also receive above Github “000” page
 
 
 
@@ -35,15 +50,5 @@ http://techcrunch.com/
 http://www.producthunt.com/
 
 http://www.reddit.com/
-
-
-
-Refresher touting benefits of Brightfence class and its unique a la carte model (don’t include pricing)
-Instructions on 40 WPM touch typing requirement 
-Instructions on creating a github account
-Provide 001 schedule (and get feedback if can’t attend)
-instructions on how to prepay for a limited class 001 spot
-fill out an application form 
-Experienced folks who didn’t attend 000 also receive above Github “000” page
 
 
