@@ -29,24 +29,46 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 
 ### Why 001
 
-If you are more productive in a structured group setting, you might want to try our 001 class. In 001, we're trying to create a uniquely awesome classroom experience by trying to solve a major problem endemic to schools. 
+If you are more productive in a structured group setting, you might want to try our 001 class. In 001, we're trying to create a uniquely awesome classroom experience by trying to solve a major problem endemic to education. 
 
-First, some background. All schools share a bell curve problem. This is where, in any given class, student ability naturally spreads out into a [bell-shaped curve](http://en.wikipedia.org/wiki/The_Bell_Curve). Those to the right (ahead) of the curve will get increasingly frustrated at the slow pace while those to the left slip farther and farther behind. For the latter group it's especially tough: the frustration and discouragement either build up into full-blown panic or deflate into detachment. It's a huge headache for educators and teachers. 
+First, some background. Education has a bell curve problem. This is where, in any given class, student ability naturally spreads out into a [bell-shaped curve](http://en.wikipedia.org/wiki/The_Bell_Curve). Those to the right (ahead) of the curve will get increasingly frustrated at the slow pace while those to the left slip farther and farther behind. For the latter group it's especially tough: the frustration and discouragement either build up into full-blown panic or deflate into detachment. It's a huge headache for educators and teachers. 
 
-With 001, we're taking a big swing at this problem. We're attempting to make it so that your pace in relation to other students **won't matter**. You set your own pace and go while retaining the benefits of a classroom setting. Here are the five ways we are innovating to solve this: 
+With 001, we're taking a big swing at this problem. We're attempting to make it so that your pace in relation to other students **won't matter**. You cruise at your own pace while retaining the benefits of a class. Here are the five ways we are innovating to solve this: 
 
 1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability Coding"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one). This laser focus removes a lot of overhead filler from the classroom. 
 2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. And these labs are all self paced! 
-3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. Classes are designed for maximum flexibility. 
-4. Classes are *a la carte*. A lot of students have inflexible schedules and we don't want to penalize them. And so, students will be able to pay on a per-class basis and pay for just those classes they can attend. This is by far the fairest pricing model we came up with - in fact, we can't think a fairer model! 
-5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 5% of a classroom body, maxing out at around 10% at places like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest % makeup in today's market, and then *tripling* it! 
+3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. There is no rigid schedule. It's maximum flexibility. 
+4. Classes are *a la carte*. A lot of students have inflexible schedules and have to pay for class whether they attend or not. Not only do they fall behind, but they get penalized for their schedules. At BrightFence, we wondered what was the absolute fairest payment model we can imagine, and here it is: In 001, students will pay *only for the days they attend*. We couldn't think of a fairer, awesomer payment model - can you? 
+5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 4% of a classroom body and max out at ~10% at resource-rich schools like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest makeup in today's market (10%) and then *tripling* it! 
 
-To accomplish the above lofty goals, **001** has been created as *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest applying to reserve a seat sooner than later. :)
+To accomplish the above lofty goals, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest applying to reserve a seat sooner than later. :)
+
+To apply, click [here]().
+
 
 
 ### Requirements
 
-Instructions on 40 WPM touch typing requirement 
+#### Touch Typing:
+A typical seasoned programmer can type 80+ WPM. App Academy requires 60+ WPM of its students. I require 40 WPM to start Class One. For beginners interested in code, an inability to touch type is the single, greatest barrier they must first overcome. If you cannot touch type, your learning will be greatly hampered, you will fall behind in every class, you may frustrate your teammates, and you will be discouraged. Discouragement is opposite my teaching philosophy, and so typing is a strict requirement for Class One. 
+
+Fortunately, since Class Zero’s purpose is to EXPOSE students to coding rather than to impart actual skills, it is only a strong suggestion for Class Zero. If you do join Class Zero without a 40-WPM ability, please know that your ability to play around with code live in class will be much slower than other students - but also know that this is also ok. Again, the goal is exposure and inspiration, not learning. 
+
+You may test your typing speed here:
+http://touchtype.co/index.php/typing/tests/41
+You must be able to type 40+ “real WPM" without looking at your keyboard. Here’s how we calculate "real WPM": 
+Your raw WPM * (% accuracy * % accuracy)
+
+Here are ways to learn touch typing:
+Please keep in mind that touch typing is specifically the ability to type without looking at your keyboard at all. The best way to learn this is to learn correct finger placement. Without correct fingering, it will be very difficult to ever achieve 40 WPM, let alone 60+ WPM. So let’s start from there with this:
+http://www.wikihow.com/Teach-Yourself-to-Touch-Type
+http://www.instructables.com/id/Mastering-10-Fingers-Typing-Touch-Typing/step2/Mastering-Fingering-Key/
+Once you have fingering figured out, you can practice it:
+http://www.typingclub.com/typing-qwerty-en.html
+http://10fastfingers.com/typing-test/english
+http://www.typeonline.co.uk/typingspeed.php
+My favorite way to learn was to transcribe any and all hand written stuff (like journals, diaries, letters, papers, etc) into Word or Text files. I liked this because I got to practice AND digitally archive my important stuff at the same time. 
+Note: Don’t ignore the numbers above your qwerty keys! - these are important as well.
 
 Instructions on creating a github account
 
