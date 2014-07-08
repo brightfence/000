@@ -47,36 +47,53 @@ To apply, click [here]().
 
 
 
-### Requirements
+### Three requirements before appllying
 
-#### Touch Typing:
-A typical seasoned programmer can type 80+ WPM. App Academy requires 60+ WPM of its students. I require 40 WPM to start Class One. For beginners interested in code, an inability to touch type is the single, greatest barrier they must first overcome. If you cannot touch type, your learning will be greatly hampered, you will fall behind in every class, you may frustrate your teammates, and you will be discouraged. Discouragement is opposite my teaching philosophy, and so typing is a strict requirement for Class One. 
+#### i. Github account
 
-Fortunately, since Class Zero’s purpose is to EXPOSE students to coding rather than to impart actual skills, it is only a strong suggestion for Class Zero. If you do join Class Zero without a 40-WPM ability, please know that your ability to play around with code live in class will be much slower than other students - but also know that this is also ok. Again, the goal is exposure and inspiration, not learning. 
+First, [create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github account in class, so try not to create any weird usernames. 
 
-You may test your typing speed here:
-http://touchtype.co/index.php/typing/tests/41
-You must be able to type 40+ “real WPM" without looking at your keyboard. Here’s how we calculate "real WPM": 
-Your raw WPM * (% accuracy * % accuracy)
+#### ii. Gmail account
 
-Here are ways to learn touch typing:
-Please keep in mind that touch typing is specifically the ability to type without looking at your keyboard at all. The best way to learn this is to learn correct finger placement. Without correct fingering, it will be very difficult to ever achieve 40 WPM, let alone 60+ WPM. So let’s start from there with this:
-http://www.wikihow.com/Teach-Yourself-to-Touch-Type
-http://www.instructables.com/id/Mastering-10-Fingers-Typing-Touch-Typing/step2/Mastering-Fingering-Key/
-Once you have fingering figured out, you can practice it:
-http://www.typingclub.com/typing-qwerty-en.html
-http://10fastfingers.com/typing-test/english
-http://www.typeonline.co.uk/typingspeed.php
-My favorite way to learn was to transcribe any and all hand written stuff (like journals, diaries, letters, papers, etc) into Word or Text files. I liked this because I got to practice AND digitally archive my important stuff at the same time. 
-Note: Don’t ignore the numbers above your qwerty keys! - these are important as well.
-
-Instructions on creating a github account
-
+Second, create a Gmail account if you don't have one yet. Some code bootcamps require this as well. 
 fill out an application form to receive pricing and scheduling (also feedback on scheduling). 
 
 
 
+#### iii. Touch Typing
+
+A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. For beginners interested in code, an inability to touch type is the single, greatest hurdle to first overcome.  
+
+[Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*: 
+`(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
+
+Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
+* [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
+* [More fingering: instructables](http://www.instructables.com/id/Mastering-10-Fingers-Typing-Touch-Typing/step2/Mastering-Fingering-Key/)
+* [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
+* [10fastfingers](http://10fastfingers.com/typing-test/english)
+* [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
+
+Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
+
+
+
+#### Things NOT required
+
+You don't need a fancy new laptop. Any old laptop will do. Just two things:
+1. If it's a Macbook, you might want to update OSX to the latest version 10.9.4 (it's free). 
+2. Make sure you've installed Google's Chrome browser. We use it. It's the best browser for developers.  
+
+
+
 ### Suggestions
+
+#### Terms to know
+
+http://www.washington.edu/itconnect/learn/workshops/online-tutorials/web-publishing/before-you-build-planning-a-web-site/basic-terminology-for-building-a-website/
+http://quizlet.com/26844737/basic-computer-terminology-for-networking-and-technology-concepts-flash-cards/
+http://netforbeginners.about.com/od/internetlanguage/tp/the-top-internet-terms-for-beginners.htm
+
 
 Get involved in news
 
