@@ -1,4 +1,4 @@
-Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or _with Brightfence_. We'll go through both options below. 
+Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. 
 
 # Option 1: On Your Own
 
