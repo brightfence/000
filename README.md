@@ -27,12 +27,18 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 
 # Option 2: With BrightFence
 
-If you work better in groups, we encourage you to join our class. We are trying to solve some major challenges with education with a few major innovations that we think will really make your experience fantastic. 
-* A la carte model
-* At your own pace model
-* An unheard of 1:2 in class student to TA ratio
-* 
+If you are more productive in a structured group setting, you might want to join our 001 class. In 001, we try to solve a major problem endemic to schools to create a uniquely awesome experience. 
 
+All Schools have a major problem that they have yet solved: the bell curve. In every class across the world, student ability naturally spreads out into a bell curve. Those ahead of the curve become frustrated at the pace that's too slow. And the problem hits students behind the curve even harder: as they slip farther and farther behind, frustration either builds up into panic or deflates into discouragement and eventually detachment. That's what happens all across the world. 
+
+At BrightFence, we're taking a big swing at this problem so that your pace in relation to other students **won't matter**. You set and go at your own pace. Here's how we're doing it: 
+
+* 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability Coding"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one).
+* A la carte model 
+* At your own pace model
+* An unheard of 50% in-class student to Teacher's Assistant (TA) ratio
+
+To accomplish the above lofty goals, we created a premium course offering we call **001.**  Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. Applying to reserve a seat sooner than later. :)
 
 
 Instructions on 40 WPM touch typing requirement 
