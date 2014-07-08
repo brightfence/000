@@ -1,6 +1,6 @@
-Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: independently or with Brightfence. We'll go through both options below. 
+Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: on your own or with Brightfence. We'll go through both options below. 
 
-# On Your Own
+# Option 1: On Your Own
 
 Modern advances in coding education has made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you learn to code on your own. 
 
@@ -10,11 +10,16 @@ Modern advances in coding education has made it easier than ever to learn to cod
 
 3. [App Academy's prep work](github.com/appacademy/prep-work)
 
-4. [How to count](http://www.amazon.com/How-Count-Programming-Mere-Mortals-ebook/dp/B005DPIKPE/ref=sr_1_1?ie=UTF8&qid=1403837433&sr=8-1&keywords=how+to+count). This book is a great intro on computer science concepts in layman's terms. 
+4. [How to count](http://www.amazon.com/How-Count-Programming-Mere-Mortals-ebook/dp/B005DPIKPE/ref=sr_1_1?ie=UTF8&qid=1403837433&sr=8-1&keywords=how+to+count). This book is a great intro on computer science concepts in layman's terms. It's a quick read and only $2.99. 
 
 5. [Stackoverflow](http://stackoverflow.com/)
 
-6. 
+6. [Touch typing](http://touchtype.co/index.php/typing/tests/41). This is a test of your touch typing skills. Knowing how to type is a strong requirement for coding. You should be able to type 40+ “real WPM" without looking at your keyboard. Here’s how we calculate "real WPM":   `Your raw WPM * (% accuracy * % accuracy)`  For example:  51 * (0.95 * 0.95) = 46
+
+
+That's it! While the 
+
+
 
 https://news.ycombinator.com/
 
@@ -25,8 +30,6 @@ http://www.producthunt.com/
 http://www.reddit.com/
 
 
-Touch typing test:
-http://touchtype.co/index.php/typing/tests/41
 
 
 
