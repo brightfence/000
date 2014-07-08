@@ -2,7 +2,7 @@ Congratulations on completing class zero! We hope you enjoyed the class and are 
 
 # Option 1: On Your Own
 
-Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you learn to code on your own. 
+Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you begin. 
 
 1. [Chris Pine's book](https://pine.fm/LearnToProgram/). Chris Pine kindly puts up the first half of his book for free online and, in our opinion, this is the single best resource for absolute beginners learning to code. Though it suddenly increases in difficulty in the latter chapters, the first 8 or 9 chapters' pacing is excellent. You can also purchase the full book [here](http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/ref=sr_1_1?ie=UTF8&qid=1404839087&sr=8-1&keywords=chris+pine+learn+to+program).
 
@@ -17,9 +17,14 @@ Modern advances in coding education have made it easier than ever to learn to co
 6. [Stackoverflow](http://stackoverflow.com/).  Stackoverflow is a community of developers and engineers - and lots of Rubyists! -  who are incentivized to help each other. As a beginner, 99% of the questions you will have will already be answered on Stackoverflow. Like Google, Stackoverflow is an indispensable resource for programmers. 
 
 7. [Touch typing](http://touchtype.co/index.php/typing/tests/41). Knowing how to type is a strong requirement for coding. You should type 40+ *“real WPM"* on this test without looking at your keyboard. Here’s how we calculate "real WPM": 
-`Your raw WPM * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
+`(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
-And that's it! While the list seems scant, it's actually hundreds of hours of work - especially Flatiron's and App Academy's prework. 
+And that's it! While the list seems scant, it will actually keep you busy for months (Flatiron and App Academy's curricula are hundreds of hours each).  
+
+
+
+# Option 2: With BrightFence
+
 
 
 
@@ -33,10 +38,6 @@ http://www.reddit.com/
 
 
 
-
-
-
-option 2: continuing education with Brightfence 
 Refresher touting benefits of Brightfence class and its unique a la carte model (don’t include pricing)
 Instructions on 40 WPM touch typing requirement 
 Instructions on creating a github account
