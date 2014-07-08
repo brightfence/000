@@ -14,7 +14,8 @@ Modern advances in coding education has made it easier than ever to learn to cod
 
 5. [Stackoverflow](http://stackoverflow.com/)
 
-6. [Touch typing](http://touchtype.co/index.php/typing/tests/41). This is a test of your touch typing skills. Knowing how to type is a strong requirement for coding. You should be able to type 40+ “real WPM" without looking at your keyboard. Here’s how we calculate "real WPM": `Your raw WPM * (% accuracy * % accuracy)`  For example:  51 * (0.95 * 0.95) = 46
+6. [Touch typing](http://touchtype.co/index.php/typing/tests/41). This is a test of your touch typing skills. Knowing how to type is a strong requirement for coding. You should be able to type 40+ “real WPM" without looking at your keyboard. Here’s how we calculate "real WPM": 
+`Your raw WPM * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
 
 That's it! While the 
