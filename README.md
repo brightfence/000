@@ -67,9 +67,7 @@ A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We re
 
 Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
 * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
-* [More fingering: instructables](http://www.instructables.com/id/Mastering-10-Fingers-Typing-Touch-Typing/step2/Mastering-Fingering-Key/)
 * [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
-* [10fastfingers](http://10fastfingers.com/typing-test/english)
 * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
 
 Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
