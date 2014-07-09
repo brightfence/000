@@ -49,10 +49,10 @@ To achieve all this, **001** has been created as a *premium* product. Due to our
 ### Three requirements before applying
 
 #### i. Github account
-First, [create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github accounts in class, so don't create a username that might embarrass you. 
+[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github accounts in class, so don't create a username that might embarrass you. 
 
 #### ii. Gmail account
-Second, create a Gmail account if you don't have one yet. This is the most robust, safest email system out there. Some code bootcamps require this as well. 
+[Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use a lot of Google services in the class so Gmail is required. On the plus side, Gmail is the most modern, robust, and safe mainstream email system out there. Some code bootcamps require Gmail as well. 
 
 #### iii. Touch Typing
 A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
