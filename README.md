@@ -26,9 +26,9 @@ Modern advances in coding education have made it easier than ever to learn to co
    Get at least 20 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). This is a tougher one. 
 
    Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
-* [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
-* [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
-* [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
+  * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
+  * [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
+  * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
 
    Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
