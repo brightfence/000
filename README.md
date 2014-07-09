@@ -41,36 +41,35 @@ With 001, we're taking a big swing at this problem. We're attempting to make it 
 4. Classes are *a la carte*. A lot of students have inflexible schedules and have to pay for class whether they attend or not. Not only do they fall behind, but they get penalized for their schedules. At BrightFence, we wondered what was the absolute fairest payment model we can imagine, and here it is: In 001, students will pay *only for the days they attend*. We couldn't think of a fairer, awesomer payment model - can you? 
 5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 4% of a classroom body and max out at ~10% at resource-rich schools like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest makeup in today's market (10%) and then *tripling* it! 
 
-To accomplish the above lofty goals, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest applying to reserve a seat sooner than later. :)
-
-To apply, click [here]().
+To accomplish the above lofty goals, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest [applying]() to reserve a seat sooner than later. :)
 
 
 
 ### Three requirements before applying
 
 #### i. Github account
-
 First, [create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github accounts in class, so don't create a username that might embarrass you. 
 
 #### ii. Gmail account
-
-Second, create a Gmail account if you don't have one yet. Some code bootcamps require this as well. 
-fill out an application form to receive pricing and scheduling (also feedback on scheduling).
+Second, create a Gmail account if you don't have one yet. This is the most robust, safest email system out there. Some code bootcamps require this as well. 
 
 #### iii. Touch Typing
-
-A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. For beginners interested in code, an inability to touch type is the single, greatest hurdle to first overcome.  
+A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
 
 [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*: 
 `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
+
+Get at least 20 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). This is a tougher one. 
 
 Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
 * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
 * [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
 * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
 
-Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
+Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
+
+
+fill out an application form to receive pricing and scheduling (also feedback on scheduling).
 
 
 
@@ -79,7 +78,6 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 You don't need a fancy new laptop. Any old laptop will do. Just two things:
 1. If it's a Macbook, you might want to update OSX to the latest version 10.9.4 (it's free). 
 2. Make sure you've installed Google's Chrome browser. We use it. It's the best browser for developers.  
-
 
 
 ### Suggestions
