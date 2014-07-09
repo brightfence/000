@@ -47,18 +47,16 @@ To apply, click [here]().
 
 
 
-### Three requirements before appllying
+### Three requirements before applying
 
 #### i. Github account
 
-First, [create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github account in class, so try not to create any weird usernames. 
+First, [create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github accounts in class, so don't create a username that might embarrass you. 
 
 #### ii. Gmail account
 
 Second, create a Gmail account if you don't have one yet. Some code bootcamps require this as well. 
-fill out an application form to receive pricing and scheduling (also feedback on scheduling). 
-
-
+fill out an application form to receive pricing and scheduling (also feedback on scheduling).
 
 #### iii. Touch Typing
 
