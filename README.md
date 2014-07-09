@@ -84,7 +84,7 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 
 #### Two more quick things (can be done after applying): 
 * Any laptop will do, however, if it's a Macbook, update OSX to the latest version 10.9.4 if you can. It's free. 
-* Install Google's Chrome browser. It's the best and the standard browser for developers.  
+* [Install Google's Chrome](https://www.google.com/intl/en-US/chrome/browser/) browser. It's the best and the standard browser for developers.  
 
 
 ### Apply here
