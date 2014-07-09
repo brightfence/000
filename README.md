@@ -2,8 +2,8 @@ Congratulations on completing class zero! We hope you enjoyed the class and are 
 
 Tip: Hold CMD (Mac) or CTRL (Windows) to click open a link in a new window.
 
-# Option 1: On Your Own
 
+# Option 1: On Your Own
 Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you begin. 
 
 1. [Chris Pine's book](https://pine.fm/LearnToProgram/). Chris Pine kindly puts up the first half of his book for free online and, in our opinion, this is the single best resource for absolute beginners learning to code. Though it suddenly increases in difficulty in the latter chapters, the first 8 or 9 chapters' pacing is excellent. You can also purchase the full book [here](http://www.amazon.com/Program-Second-Edition-Facets-Series/dp/1934356360/ref=sr_1_1?ie=UTF8&qid=1404839087&sr=8-1&keywords=chris+pine+learn+to+program).
@@ -24,11 +24,9 @@ Modern advances in coding education have made it easier than ever to learn to co
 And that's it! While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula will take hundreds of hours *each*). 
 
 
-
 # Option 2: Class 001
 
 ### Why 001
-
 If you are more productive in a structured group setting, you might want to try our 001 class. In 001, we're trying to create a uniquely awesome classroom experience by trying to solve a major problem endemic to education. 
 
 First, some background. Education has a bell curve problem. This is where, in any given class, student ability naturally spreads out into a [bell-shaped curve](http://en.wikipedia.org/wiki/The_Bell_Curve). Those to the right (ahead) of the curve will get increasingly frustrated at the slow pace while those to the left slip farther and farther behind. For the latter group it's especially tough: the frustration and discouragement either build up into full-blown panic or deflate into detachment. It's a huge headache for educators and teachers. 
@@ -45,8 +43,7 @@ With 001, we're taking a big swing at this problem. We're attempting to make it 
 
 5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 4% of a classroom body and max out at ~10% at resource-rich schools like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest makeup in today's market (10%) and then *tripling* it! 
 
-To accomplish the above lofty goals, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest [applying]() to reserve a seat sooner than later. :)
-
+To achieve all this, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest [applying]() to reserve a seat sooner than later. :)
 
 
 ### Three requirements before applying
@@ -73,37 +70,13 @@ Since touch typing is the ability to type without looking at your keyboard, prop
 Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
 
-#### Things NOT required
-You don't need a fancy new laptop. Any old laptop will do. Just two things:
+#### Two more quick things (can be done after applying): 
 
-1. If it's a Macbook, you might want to update OSX to the latest version 10.9.4 (it's free). 
+* Any laptop will do, however, if it's a Macbook, update OSX to the latest version 10.9.4 (it's free) if you can. 
 
-2. Make sure you've installed Google's Chrome browser. We use it. It's the best browser for developers.  
-
+* Install Google's Chrome browser. It's the best and the standard browser for developers.  
 
 
-fill out an application form to receive pricing and scheduling (also feedback on scheduling).
-
-
-
-### Suggestions
-
-#### Terms to know
-
-http://www.washington.edu/itconnect/learn/workshops/online-tutorials/web-publishing/before-you-build-planning-a-web-site/basic-terminology-for-building-a-website/
-http://quizlet.com/26844737/basic-computer-terminology-for-networking-and-technology-concepts-flash-cards/
-http://netforbeginners.about.com/od/internetlanguage/tp/the-top-internet-terms-for-beginners.htm
-
-
-Get involved in news
-
-https://news.ycombinator.com/
-http://techcrunch.com/
-
-http://www.producthunt.com/
-
-http://www.reddit.com/
-
-
-
+### Apply here
+Please fill out [this application]() **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you pricing and schedule information. 
 
