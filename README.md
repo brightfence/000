@@ -69,15 +69,14 @@ Since touch typing is the ability to type without looking at your keyboard, prop
 Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
 
-fill out an application form to receive pricing and scheduling (also feedback on scheduling).
-
-
-
 #### Things NOT required
-
 You don't need a fancy new laptop. Any old laptop will do. Just two things:
 1. If it's a Macbook, you might want to update OSX to the latest version 10.9.4 (it's free). 
 2. Make sure you've installed Google's Chrome browser. We use it. It's the best browser for developers.  
+
+
+fill out an application form to receive pricing and scheduling (also feedback on scheduling).
+
 
 
 ### Suggestions
