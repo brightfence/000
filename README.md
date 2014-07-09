@@ -19,19 +19,18 @@ Modern advances in coding education have made it easier than ever to learn to co
 6. [Stackoverflow](http://stackoverflow.com/).  Stackoverflow is a community of developers and engineers - and lots of Rubyists! -  who are incentivized to help each other. As a beginner, 99% of the questions you will have will already be answered on Stackoverflow. Like Google, Stackoverflow is an indispensable resource for programmers. 
 
 7. Touch type 40+ WPM. 
-A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
+...A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
 
-[Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*: 
-`(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
+...[Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*:  `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
-Get at least 20 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). This is a tougher one. 
+...Get at least 20 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). This is a tougher one. 
 
-Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
+...Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
 * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
 * [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
 * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
 
-Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
+...Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
 
 And that's it! While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula will take hundreds of hours *each*). 
