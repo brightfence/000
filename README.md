@@ -43,7 +43,7 @@ With 001, we're taking a big swing at this problem. We're attempting to make it 
 
 5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 4% of a classroom body and max out at ~10% at resource-rich schools like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest makeup in today's market (10%) and then *tripling* it! 
 
-To achieve all this, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest [applying]() to reserve a seat sooner than later. :)
+To achieve all this, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
 
 
 ### Three requirements before applying
@@ -76,5 +76,5 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 
 
 ### Apply here
-Please fill out [this application]() **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you pricing and schedule information. 
+Please fill out [this application](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you pricing and schedule information. 
 
