@@ -36,9 +36,13 @@ First, some background. Education has a bell curve problem. This is where, in an
 With 001, we're taking a big swing at this problem. We're attempting to make it so that your pace in relation to other students **won't matter**. You cruise at your own pace while retaining the benefits of a class. Here are the five ways we are innovating to solve this: 
 
 1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability Coding"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one). This laser focus removes a lot of overhead filler from the classroom. 
+
 2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. And these labs are all self paced! 
+
 3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. There is no rigid schedule. It's maximum flexibility. 
+
 4. Classes are *a la carte*. A lot of students have inflexible schedules and have to pay for class whether they attend or not. Not only do they fall behind, but they get penalized for their schedules. At BrightFence, we wondered what was the absolute fairest payment model we can imagine, and here it is: In 001, students will pay *only for the days they attend*. We couldn't think of a fairer, awesomer payment model - can you? 
+
 5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 4% of a classroom body and max out at ~10% at resource-rich schools like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest makeup in today's market (10%) and then *tripling* it! 
 
 To accomplish the above lofty goals, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. We suggest [applying]() to reserve a seat sooner than later. :)
@@ -71,8 +75,11 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 
 #### Things NOT required
 You don't need a fancy new laptop. Any old laptop will do. Just two things:
+
 1. If it's a Macbook, you might want to update OSX to the latest version 10.9.4 (it's free). 
+
 2. Make sure you've installed Google's Chrome browser. We use it. It's the best browser for developers.  
+
 
 
 fill out an application form to receive pricing and scheduling (also feedback on scheduling).
