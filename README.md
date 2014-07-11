@@ -3,7 +3,6 @@ Congratulations on completing class zero! We hope you enjoyed the class and are 
 
 Tip: Hold CMD (Mac) or CTRL (Windows) to click open a link in a new window.
 
-
 # Option 1: On Your Own
 Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you begin. 
 
@@ -40,23 +39,17 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 # Option 2: Class 001
 
 ### Why 001
-If you are more productive in a structured group setting, you might want to try our 001 class. In 001, we're trying to create a uniquely awesome classroom experience by trying to solve a major problem endemic to education. 
+If you are more productive in a structured group setting, you might want to try our 001 class. In 001, it's all about flexibility. We try to create a uniquely awesome, flexible classroom experience with the following:
 
-First, some background. Education has a bell curve problem. This is where, in any given class, student ability naturally spreads out into a [bell-shaped curve](http://en.wikipedia.org/wiki/The_Bell_Curve). Those to the right (ahead) of the curve will get increasingly frustrated at the slow pace while those to the left slip farther and farther behind. For the latter group it's especially tough: the frustration and discouragement either build up into full-blown panic or deflate into detachment. It's a huge headache for educators and teachers. 
+1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability to Code"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one). This laser focus removes a lot of overhead time fillers from the classroom. 
 
-With 001, we're taking a big swing at this problem. We're attempting to make it so that your pace in relation to other students **won't matter**. You cruise at your own pace while retaining the benefits of a class. Here are the five ways we are innovating to solve this: 
+2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. 
 
-1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability Coding"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one). This laser focus removes a lot of overhead filler from the classroom. 
-
-2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. And these labs are all self paced! 
-
-3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. There is no rigid schedule. It's maximum flexibility. 
+3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. We eschew rigid schedule to maximize flexibility. 
 
 4. Classes are *a la carte*. A lot of students have inflexible schedules and have to pay for class whether they attend or not. Not only do they fall behind, but they get penalized for their schedules. At BrightFence, we wondered what was the absolute fairest payment model we can imagine, and here it is: In 001, students will pay *only for the days they attend*. We couldn't think of a fairer, awesomer payment model - can you? 
 
-5. TAs are an expensive luxury. Most schools cannot afford them. However, TAs are extremely helpful - especially in lab settings. TAs typically comprise between 0% to 4% of a classroom body and max out at ~10% at resource-rich schools like coding bootcamps. With 001, we've decided to invest heavily in the TA body to the tune of a **30% classroom makeup**! That's taking the highest makeup in today's market (10%) and then *tripling* it! 
-
-To achieve all this, **001** has been created as a *premium* product. Due to our minimum TA requirements, classes will have tightly limited seats and will be on a first-reserve, first-serve basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
+Sessions will have limited seats and can be reserved on a first-come basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
 
 
 ### Three requirements before applying
@@ -64,7 +57,7 @@ To achieve all this, **001** has been created as a *premium* product. Due to our
 #### i. Github account
 [create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github accounts in class, so don't create a username that might embarrass you. 
 
-Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom.
+Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom. 
 
 #### ii. Gmail account
 [Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use a lot of Google services in the class so Gmail is required. On the plus side, if you don't use Gmail, it's a good time to modernize. Gmail is the most modern, robust, and safe mainstream email system out there. Some code bootcamps require Gmail as well. 
