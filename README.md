@@ -60,7 +60,15 @@ Sessions will have limited seats and can be reserved on a first-come basis. [App
 Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom. 
 
 #### ii. Gmail account
-[Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use a lot of Google services in the class so Gmail is required. On the plus side, if you don't use Gmail, it's a good time to modernize. Gmail is the most modern, robust, and safe mainstream email system out there. Some code bootcamps require Gmail as well. 
+[Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use a lot of Google services in the class so Gmail is required. On the plus side, if you don't use Gmail, it's a good time to modernize. Gmail is the most modern, robust, and safe mainstream email system out there. Some code bootcamps require Gmail as well. On Gmail, we recommend these settings:
+* General >> Maximum page size = 100
+* General >> Keyboard shortcut on
+* Forwarding >> Enable IMAP
+* Forwarding >> Auto Expunge OFF
+* Forwarding >> Move messages to Trash
+* Labs >> Enable Undo Send
+* Labs >> Enable Unread Message Icon
+
 
 #### iii. Touch Typing
 A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
