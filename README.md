@@ -1,5 +1,3 @@
-<a name="typing"></a>
-
 ## Class Zero (000) next steps kit
 Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. 
 
@@ -20,7 +18,7 @@ Modern advances in coding education have made it easier than ever to learn to co
 
 6. [Stackoverflow](http://stackoverflow.com/).  Stackoverflow is a community of developers and engineers - and lots of Rubyists! -  who are incentivized to help each other. As a beginner, 99% of the questions you will have will already be answered on Stackoverflow. Like Google, Stackoverflow is an indispensable resource for programmers. 
 
-7. [Touch type](#typing) 40+ WPM. 
+7. Touch type 40+ WPM. 
    A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
 
    [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*:  `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
@@ -72,6 +70,7 @@ Once you create your account, we recommend you go to [email settings](https://gi
 * Labs >> Enable Unread Message Icon
 
 
+<a name="typing"></a>
 #### iii. Touch Typing
 A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
 
