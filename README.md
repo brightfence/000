@@ -21,7 +21,7 @@ Modern advances in coding education have made it easier than ever to learn to co
 7. Touch type 40+ WPM. 
    A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
 
-   [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*:  `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
+   [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should be able to consistently type 40+ *real WPM* on the test **without** looking at your keyboard. Here’s how we calculate *real WPM*:   `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
    You should also score at least 30 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). It's much harder, but it's important since coding requires typing numbers and special characters. 
 
@@ -78,7 +78,7 @@ Once you create your account, we recommend you go to [email settings](https://gi
 #### iii. Touch Typing
 A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
 
-[Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*: 
+[Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should be able to consistently type 40+ *real WPM* on the test **without** looking at your keyboard. Here’s how we calculate *real WPM*: 
 `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
 You should also score at least 30 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). It's much harder, but it's important since coding requires typing numbers and special characters. 
