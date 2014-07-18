@@ -23,12 +23,16 @@ Modern advances in coding education have made it easier than ever to learn to co
 
    [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*:  `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
-   Get at least 20 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). This is a tougher one. 
+   You should also score at least 30 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). It's much harder, but it's important since coding requires typing numbers and special characters. 
 
    Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
   * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
+  * [Keybr is nice](http://www.keybr.com/)
+  * [Big brown bear](http://bigbrownbear.co.uk/learntotype/)
   * [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
   * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
+  * [Typingweb](http://www.typingweb.com/tutor/)
+
 
    Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
@@ -77,12 +81,15 @@ A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We re
 [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should type 40+ *real WPM* on the test without looking at your keyboard. Here’s how we calculate *real WPM*: 
 `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
-Get at least 20 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). This is a tougher one. 
+You should also score at least 30 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). It's much harder, but it's important since coding requires typing numbers and special characters. 
 
 Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
 * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
+* [Keybr is nice](http://www.keybr.com/)
+* [Big brown bear](http://bigbrownbear.co.uk/learntotype/)
 * [typingclub](http://www.typingclub.com/typing-qwerty-en.html)
 * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
+* [Typingweb](http://www.typingweb.com/tutor/)
 
 Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
