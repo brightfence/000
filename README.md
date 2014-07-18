@@ -39,7 +39,7 @@ Modern advances in coding education have made it easier than ever to learn to co
 
 And that's it! While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula will take hundreds of hours *each*). 
 
-
+<a name="why001"></a>
 # Option 2: Class 001
 
 ### Why 001
@@ -54,6 +54,21 @@ If you are more productive in a structured group setting, you might want to try 
 4. Classes are *a la carte*. A lot of students have inflexible schedules and have to pay for class whether they attend or not. Not only do they fall behind, but they get penalized for their schedules. At BrightFence, we wondered what was the absolute fairest payment model we can imagine, and here it is: In 001, students will pay *only for the days they attend*. We couldn't think of a fairer, awesomer payment model - can you? 
 
 Sessions will have limited seats and can be reserved on a first-come basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
+
+Here is a comparison breakdown of Bootcamps and 001.
+
+|                                         | Bootcamps | Class 001 |
+| --------------------------------------  | ------- | -------- |
+| Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
+| Learning Structure                      | 3-mo intensive | flexible |
+| Tuition cost structure                  | Conventional | A la carte |
+| Class Schedule Structure                | Conventional | Self-paced |
+| % labs (paired or group)                | 60% | 80% |
+| % curriculum lectures                   | 20% | 20% |
+| % soft topics: guests, blogs, emotions  | 20% | 0% |
+| School lab open hours                   | 24/7 | TBD |
+| Outside-of-class pair programming?      | Varies | Yes |
+
 
 
 ### Three requirements before applying
