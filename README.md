@@ -43,9 +43,13 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 # Option 2: Class 001
 
 ### Why 001
-If you are more productive in a structured group setting, you might want to try our 001 class. In 001, it's all about flexibility. We try to create a uniquely awesome, flexible classroom experience with the following:
+If you are productive in a structured group setting, consider our **Class 001**. 
 
-1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate a student's **Minimum Potential Ability to Code"** (MPAC) *while* teaching her how to code. We can determine your MPAC within two months (sometimes within one). This laser focus removes a lot of overhead time fillers from the classroom. 
+Class 001 is a structured evaluator of coding potential. The goal is QUICK EVALUATION TURNAROUND (usually in a month or two) to help you decide whether you should join a bootcamp or go slow and steady. 
+
+Class 001 is designed for maximum flexibility and results with the following:
+
+1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate students' **Coding Potential"** (CP) *while* teaching them how to code. We can determine your CP in about two months (sometimes faster). This laser focus removes excess time fillers from the class schedule. 
 
 2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. 
 
@@ -55,20 +59,18 @@ If you are more productive in a structured group setting, you might want to try 
 
 Sessions will have limited seats and can be reserved on a first-come basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
 
-Here is a comparison breakdown of Bootcamps and 001.
+Here is a comparison breakdown of Bootcamps and Class 001.
 
 |                                         | Bootcamps | Class 001 |
-| --------------------------------------  | ------- | -------- |
+| --------------------------------------  |:---------:|:---------:|
 | Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
-| Learning Structure                      | 3-mo intensive | flexible |
+| Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
 | Tuition cost structure                  | Conventional | A la carte |
-| Class Schedule Structure                | Conventional | Self-paced |
-| % labs (paired or group)                | 60% | 80% |
-| % curriculum lectures                   | 20% | 20% |
-| % soft topics: guests, blogs, emotions  | 20% | 0% |
+| % Labs (paired or grouped)              | 50% | 80% |
+| % Curriculum lectures                   | 30% | 20% |
+| % Soft topics (guests, blogs, emotions) | 20% | 0% |
 | School lab open hours                   | 24/7 | TBD |
 | Outside-of-class pair programming?      | Varies | Yes |
-
 
 
 ### Three requirements before applying
@@ -109,7 +111,7 @@ Since touch typing is the ability to type without looking at your keyboard, prop
 Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
 
-#### Two more quick things (can be done after applying): 
+#### iv. Two more quick things (can be done after applying): 
 * Any laptop will do, however, if it's a Macbook, update OSX to the latest version 10.9.4 if you can. It's free. 
 * [Install Google's Chrome](https://www.google.com/intl/en-US/chrome/browser/) browser. It's the best and the standard browser for developers.  
 
