@@ -75,12 +75,7 @@ Here is a comparison breakdown of Bootcamps and Class 001.
 
 ### Three requirements before applying
 
-#### i. Github account
-[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is practically a requirement in the world of programmers and developers. So create one. We'll be sharing everyone's Github accounts in class, so don't create a username that might embarrass you. 
-
-Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom. 
-
-#### ii. Gmail account
+#### i. Gmail account
 [Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use a lot of Google services in the class so Gmail is required. On the plus side, if you don't use Gmail, it's a good time to modernize. Gmail is the most modern, robust, and safe mainstream email system out there. Some code bootcamps require Gmail as well. On Gmail, we recommend these settings:
 * General >> Maximum page size = 100
 * General >> Keyboard shortcut on
@@ -90,6 +85,10 @@ Once you create your account, we recommend you go to [email settings](https://gi
 * Labs >> Enable Undo Send
 * Labs >> Enable Unread Message Icon
 
+#### ii. Github account
+[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is *de rigeur* for developers. So create one using your Gmail account, if possible. We'll be sharing everyone's Github usernames in class for collaboration. 
+
+Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom. 
 
 <a name="typing"></a>
 #### iii. Touch Typing
