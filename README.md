@@ -41,13 +41,27 @@ And that's it! While the list doesn't seem exhaustive, it will actually keep you
 # Option 2: Class 001
 
 ### Why 001
-If you are productive in a structured group setting, consider our **Class 001**. 
+There are four reasons a student would study with us instead of solo.
+
+1. **TO SAVE MASSIVE AMOUNTS OF TIME.** However many hours it takes a beginner to get into a top coding bootcamp, it will take less than half the hours with Brightfence. If it's 1,000 hours solo, it'll be less than 500 hours with us. How and why, you ask? Well, for beginners, the learning process will have *lots* of overhead that, frankly, will occupy more time than that which you spend purely learning to code. If you can rely on family or friends who are developers to help you, they can help save you countless hours, but we go all-in on **eliminating 99%** of this overhead for you. We found that most people who have tried learning to code on their own quit at some point due to the overhead being such a frustrating impediment to the pure code learning part. We make the learning process friction free. 
+  Here are just some of the overhead items that will take up at least 50% of a beginner's time learning to code: 
+  * researching coding careers
+  * researching the starter language that's best for you
+  * individually finding the best 100+ tools you need for coding
+  * researching the best books and online courses
+  * experimenting with different pedagogical materials
+  * experimenting with designing your curriculum (the order you use your materials)
+  * researching the coding bootcamp that's best for you
+  * troubleshooting technical problems you will encounter
+  And this does not include getting help with problems coding. 
+While some people like to organically experience all of the overhead themselves, others just want to optimize their time on learning a programming 
+
 
 Class 001 is a structured evaluator of coding potential. The goal is QUICK EVALUATION TURNAROUND (usually in a month or two) to help you decide whether you should join a bootcamp or go slow and steady. 
 
 Class 001 is designed for maximum flexibility and results with the following:
 
-1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate students' **Coding Potential"** (CP) *while* teaching them how to code. We can determine your CP in about two months (sometimes faster). This laser focus removes excess time fillers from the class schedule. 
+1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate students' **Coding Potential"** (CP) *while* teaching them how to code. We can determine your CP in about two months (sometimes faster). Soft topics are eliminated from the syllabus. The focus is laser like.  
 
 2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. 
 
