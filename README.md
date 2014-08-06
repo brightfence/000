@@ -70,18 +70,6 @@ Class 001 is a QUICK evaluator of potential. It evaluates what we call your **Co
 
 Sessions are limited and are reserved on a first-come basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
 
-Here is a comparison breakdown of Bootcamps and Class 001.
-
-|                                         | Bootcamps | Class 001 |
-| --------------------------------------  |:---------:|:---------:|
-| Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
-| Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
-| Tuition cost structure                  | Conventional upfront $20/hr rate | $100/month + a la carte per session |
-| % Labs (paired or grouped)              | 50% | 50% |
-| % Curriculum lectures                   | 30% | 50% |
-| % Soft topics (guests, blogs, emotions) | 20% | 0% |
-| School lab open hours                   | 24/7 | TBD |
-| Outside-of-class pair programming?      | Varies | Yes |
 
 
 ### Three requirements before applying
@@ -128,4 +116,19 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 
 ### Apply here
 Please fill out [this application](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you full pricing and scheduling information. 
+
+
+### Class 001 is not a Bootcamp
+On a final note, we are not a bootcamp. To clarify what we are, here is a comparison chart:
+
+|                                         | Bootcamps | Class 001 |
+| --------------------------------------  |:---------:|:---------:|
+| Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
+| Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
+| Tuition cost structure                  | Conventional upfront $20/hr rate | $100/month + a la carte per session |
+| % Labs (paired or grouped)              | 50% | 50% |
+| % Curriculum lectures                   | 30% | 50% |
+| % Soft topics (guests, blogs, emotions) | 20% | 0% |
+| School lab open hours                   | 24/7 | TBD |
+| Outside-of-class pair programming?      | Varies | Yes |
 
