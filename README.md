@@ -62,6 +62,7 @@ Brightfence eliminates 99% of the overhead.
 We start with Class 001. 
 
 Class 001 is a QUICK evaluator of potential. It evaluates what we call your **Coding Potential" (CP)** within a month - all while teaching you to code. Class 001 is designed
+
 1. To minimize "soft" topics and laser focus on coding and evaluating
 2. To extremely be flexible (everyone goes at their own pace and class scheduling is super flexible)
 3. To be affordable (it starts at $100).
