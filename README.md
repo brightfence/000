@@ -31,45 +31,43 @@ Modern advances in coding education have made it easier than ever to learn to co
   * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
   * [Typingweb](http://www.typingweb.com/tutor/)
 
-
    Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
 
-
 And that's it! While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula will take hundreds of hours *each*). 
+
+
 
 <a name="why001"></a>
 # Option 2: Class 001
 
 ### Why 001
-There are four reasons a student would study with us instead of solo.
+Why would you want to study with us rather than solo? The answer is **"overhead."** Overhead is the biggest barrier to beginners to coding - and it's massive. 
 
-1. **TO SAVE MASSIVE AMOUNTS OF TIME.** However many hours it takes a beginner to get into a top coding bootcamp, it will take less than half the hours with Brightfence. If it's 1,000 hours solo, it'll be less than 500 hours with us. How and why, you ask? Well, for beginners, the learning process will have *lots* of overhead that, frankly, will occupy more time than that which you spend purely learning to code. If you can rely on family or friends who are developers to help you, they can help save you countless hours, but we go all-in on **eliminating 99%** of this overhead for you. We found that most people who have tried learning to code on their own quit at some point due to the overhead being such a frustrating impediment to the pure code learning part. We make the learning process friction free. 
-  Here are just some of the overhead items that will take up at least 50% of a beginner's time learning to code: 
+But what exactly is **overhead**? 
+
+It's the tasks related to the coding that isn't *actual* coding. Here are some examples:
+
+  * troubleshooting the many, many technical problems you will encounter with setup
+  * researching which language to start learning with
+  * finding all the tools you need to learn to code (you will often not find the best ones)
+  * researching and experimenting with different books, online courses and materials
+  * experimenting with the best order in which to learn all your stuff
+  * researching the coding bootcamp that's best for you...
   * researching coding careers
-  * researching the starter language that's best for you
-  * individually finding the best 100+ tools you need for coding
-  * researching the best books and online courses
-  * experimenting with different pedagogical materials
-  * experimenting with designing your curriculum (the order you use your materials)
-  * researching the coding bootcamp that's best for you
-  * troubleshooting technical problems you will encounter
-  And this does not include getting help with problems coding. 
-While some people like to organically experience all of the overhead themselves, others just want to optimize their time on learning a programming 
 
+Overhead easily takes up *most* of a beginner's time - and that, for most people, cripples motivation. Add to this the fact that most of the 'learning to code' stuff is terrible for absolute beginners and motivation effectively dies. Overhead is why most people quit. 
 
-Class 001 is a structured evaluator of coding potential. The goal is QUICK EVALUATION TURNAROUND (usually in a month or two) to help you decide whether you should join a bootcamp or go slow and steady. 
+Brightfence eliminates 99% of the overhead. 
 
-Class 001 is designed for maximum flexibility and results with the following:
+We start with Class 001. 
 
-1. 001 is designed not to waste time. It's purpose is to quickly evaluate and validate students' **Coding Potential"** (CP) *while* teaching them how to code. We can determine your CP in about two months (sometimes faster). Soft topics are eliminated from the syllabus. The focus is laser like.  
+Class 001 is a QUICK evaluator of potential. It evaluates what we call your **Coding Potential" (CP)** within a month - all while teaching you to code. Class 001 is designed
+1. To minimize "soft" topics and laser focus on coding and evaluating
+2. To extremely be flexible (everyone goes at their own pace and class scheduling is super flexible)
+3. To be affordable (it starts at $100).
+4. To provide you with an accurate assessment of your potential, and guidance based on your results.
 
-2. Classes are mainly labs. Students can request short lectures on particular curriculum topics, but students will mainly work in pairs and with TAs to learn to code by actually coding. 
-
-3. Classes are not locked into any linear structure. In other words, you learn what you need to learn *when* you need to learn it, no matter which class you sit in. We eschew rigid schedule to maximize flexibility. 
-
-4. Classes are *a la carte*. A lot of students have inflexible schedules and have to pay for class whether they attend or not. Not only do they fall behind, but they get penalized for their schedules. At BrightFence, we wondered what was the absolute fairest payment model we can imagine, and here it is: In 001, students will pay *only for the days they attend*. We couldn't think of a fairer, awesomer payment model - can you? 
-
-Sessions will have limited seats and can be reserved on a first-come basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
+Sessions are limited and are reserved on a first-come basis. [Apply to reserve a seat](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) as soon as you fulfill the requirements below.
 
 Here is a comparison breakdown of Bootcamps and Class 001.
 
@@ -77,9 +75,9 @@ Here is a comparison breakdown of Bootcamps and Class 001.
 | --------------------------------------  |:---------:|:---------:|
 | Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
 | Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
-| Tuition cost structure                  | Conventional | A la carte |
-| % Labs (paired or grouped)              | 50% | 80% |
-| % Curriculum lectures                   | 30% | 20% |
+| Tuition cost structure                  | Conventional upfront $20/hr rate | $100/month + a la carte per session |
+| % Labs (paired or grouped)              | 50% | 50% |
+| % Curriculum lectures                   | 30% | 50% |
 | % Soft topics (guests, blogs, emotions) | 20% | 0% |
 | School lab open hours                   | 24/7 | TBD |
 | Outside-of-class pair programming?      | Varies | Yes |
@@ -98,20 +96,20 @@ Here is a comparison breakdown of Bootcamps and Class 001.
 * Labs >> Enable Unread Message Icon
 
 #### ii. Github account
-[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that having a Github account is *de rigeur* for developers. So create one using your Gmail account, if possible. We'll be sharing everyone's Github usernames in class for collaboration. 
+[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that Github is essential  for developers. Create one using your Gmail account, if possible. 
 
 Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom. 
 
 <a name="typing"></a>
 #### iii. Touch Typing
-A typical seasoned programmer types 80+ WPM. App Academy requires 60+ WPM. We require 40+ real WPM for 001. The inability to touch type is the single, greatest hurdle to first overcome for anyone who wants to learn to code. 
+A typical seasoned programmer types 80+ WPM. Some bootcamps require 60+ WPM. We require 40+ real WPM for 001. An inability to touch type is the single, greatest hurdle that must be first overcome to learn to code. 
 
 [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should be able to consistently type 40+ *real WPM* on the test **without** looking at your keyboard. Here’s how we calculate *real WPM*: 
 `(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
 You should also score at least 30 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). It's much harder, but it's important since coding requires typing numbers and special characters. 
 
-Since touch typing is the ability to type without looking at your keyboard, proper fingering becomes very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. Here are some places to learn:
+Since touch typing is the ability to type without looking at your keyboard, proper fingering is also very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. So here are some places to learn:
 * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
 * [Keybr is nice](http://www.keybr.com/)
 * [Big brown bear](http://bigbrownbear.co.uk/learntotype/)
@@ -128,5 +126,5 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 
 
 ### Apply here
-Please fill out [this application](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you pricing and schedule information. 
+Please fill out [this application](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you full pricing and scheduling information. 
 
