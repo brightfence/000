@@ -125,7 +125,7 @@ On a final note, we are not a bootcamp. To clarify what we are, here is a compar
 | --------------------------------------  |:---------:|:---------:|
 | Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
 | Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
-| Tuition cost structure                  | Conventional upfront $20/hr rate | $100/month + a la carte per session |
+| Tuition cost structure                  | Conventional upfront $20/hr rate | $100 + optional $10/hr sessions |
 | % Labs (paired or grouped)              | 50% | 50% |
 | % Curriculum lectures                   | 30% | 50% |
 | % Soft topics (guests, blogs, emotions) | 20% | 0% |
