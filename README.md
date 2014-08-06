@@ -1,7 +1,7 @@
 ## Class Zero (000) next steps kit
 Congratulations on completing class zero! We hope you enjoyed the class and are looking forward to continuing your lessons. There are two paths you can take to continue your education: **on your own** or **with Brightfence**. We'll go through both options below. 
 
-Tip: Hold CMD (Mac) or CTRL (Windows) to click open a link in a new window.
+Tip: Hold down `CMD` (Mac) or `CTRL` (Windows) to click open a link in a new window.
 
 # Option 1: On Your Own
 Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you begin. 
