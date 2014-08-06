@@ -4,7 +4,7 @@ Congratulations on completing class zero! We hope you enjoyed the class and are 
 Tip: Hold down `CMD` (Mac) or `CTRL` (Windows) to click open a link in a new window.
 
 # Option 1: On Your Own
-Modern advances in coding education have made it easier than ever to learn to code on your own. As we've promised, here is a curated list of our favorite resources to help you begin. 
+Here is a curated list of our favorite resources to help you begin on your own. 
 
 1. [Flatiron's pre-work](prework.flatironschool.com). This is one of the top three coding bootcamps in the city and they've published the prework they require of their students. If you can get through all of this twice - you just might have what it takes to get into Flatiron! This is a Ruby-based curriculum.
 
