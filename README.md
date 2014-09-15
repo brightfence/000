@@ -6,9 +6,9 @@ Tip: Hold down `CMD` (Mac) or `CTRL` (Windows) to click open a link in a new win
 # Option 1: On Your Own
 Here is a curated list of our favorite resources to help you begin on your own. 
 
-1. [Flatiron's pre-work](prework.flatironschool.com). This is one of the top three coding bootcamps in the city and they've published the prework they require of their students. If you can get through all of this twice - you just might have what it takes to get into Flatiron! This is a Ruby-based curriculum.
+1. [Flatiron's pre-work](http://prework.flatironschool.com). This is one of the top three coding bootcamps in the city and they've published the prework they require of their students. If you can get through all of this twice - you just might have what it takes to get into Flatiron! This is a Ruby-based curriculum.
 
-2. [App Academy's prep work](github.com/appacademy/prep-work). This is App Academy's prep work. Parts of it is echoed in Flatiron's. It's worth doing both Flatiron's and App Academy's. This is a Ruby-based curriculum.
+2. [App Academy's prep work](http://github.com/appacademy/prep-work). This is App Academy's prep work. Parts of it is echoed in Flatiron's. It's worth doing both Flatiron's and App Academy's. This is a Ruby-based curriculum.
 
 3. [How to count](http://www.amazon.com/How-Count-Programming-Mere-Mortals-ebook/dp/B005DPIKPE/ref=sr_1_1?ie=UTF8&qid=1403837433&sr=8-1&keywords=how+to+count). This book is a great intro on computer science concepts in layman's terms. It's a quick read and only $2.99. 
 
@@ -111,24 +111,24 @@ Alternatively, you can practice by transcribing your hand-written stuff (like jo
 
 #### iv. Two more quick things (can be done after applying): 
 * Any laptop will do, however, if it's a Macbook, update OSX to the latest version 10.9.4 if you can. It's free. 
-* [Install Google's Chrome](https://www.google.com/intl/en-US/chrome/browser/) browser. It's the best and the standard browser for developers.  
+* [Install Google's Chrome](https://www.google.com/intl/en-US/chrome/browser/) browser. It's the standard browser for developers. 
 
 
 ### Apply here
-Please fill out [this application](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) **after** you've fulfilled the first three requirements above. Scheduling will be determined by the applicants' free times. Once we receive your application, we will send you full pricing and scheduling information. 
+Please fill out [this application](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) **after** you've fulfilled the first three requirements above. Once we receive your application, we will send you more details about 001. 
 
 
-### Class 001 is not a Bootcamp
-On a final note, we are not a bootcamp. To clarify what we are, here is a comparison chart:
+### On a final note, Class 001 is *not* a bootcamp
+To clarify what we are, here is a comparison chart:
 
 |                                         | Bootcamps | Class 001 |
 | --------------------------------------  |:---------:|:---------:|
 | Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
 | Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
-| Tuition                                 | $12,000 ($20/hr rate) | $100 + **optional** $10/hr sessions |
+| $100 + **optional** $10/hr sessions |
 | % Labs (paired or grouped)              | 50% | 50% |
 | % Curriculum lectures                   | 30% | 50% |
 | % Soft topics (guests, blogs, emotions) | 20% | 0% |
 | School lab open hours                   | 24/7 | TBD |
 | Outside-of-class pair programming?      | Varies | Yes |
-
+| Tuition                                 | $12,000 ($20/hr rate) 
