@@ -79,7 +79,7 @@ Since many people ask, it helps to compare Class 001 to Coding Bootcamps to real
 | Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
 | % Labs (paired or grouped)              | 50% | 90% |
 | % Curriculum lectures                   | 30% | 10% |
-| % Soft topics (guests, blogs, emotional health) | 20% | 0% |
+| % Soft topics (guests, blogs, feelings) | 20% | 0% |
 | Outside-of-class pair programming?      | Varies | Yes |
 | Tuition                                 | $12,000 ($20/hr rate) | $150/mo. |
 
