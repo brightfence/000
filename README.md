@@ -135,7 +135,7 @@ Sessions are limited and are currently invite only.
 
 After you've fulfilled the above prerequisites, please set aside 30 minutes to complete the application when you are ready. It usually takes less time than that. 
 
-When you're ready, go [to the application here](https://docs.google.com/a/brightfence.com/forms/d/1ZjKQrw9N6Qi2XOmhc38Vj_wX4Jk-Nrc5c1_67UTDO7M/viewform) to complete it.Once we receive your application, I will send you more details about 001. 
+When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it.Once we receive your application, I will send you more details about 001. 
 
 The application will gather sensitive information from you. I will use your sensitive data only to provide you an accurate assessment. Once your relationship ends with Brightfence (that is, you stop taking any courses), I will anonymize your sensitive data by scrubbing your personally identifiable information from it, and then aggregate it to my statistics to help me improve my assessment accuracy for future students. Your contact information will be kept isolated, confidential and secure to use for future communications which you can opt out of at any time. 
 
