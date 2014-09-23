@@ -135,7 +135,9 @@ Sessions are limited and are currently invite only.
 
 After you've fulfilled the above prerequisites, please set aside 30 minutes to complete the application when you are ready. It usually takes less time than that. 
 
-When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it.Once we receive your application, I will send you more details about 001. 
+When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it. Once I receive your application, I will send you more details about 001 on your first day of class. 
+
+> **IMPORTANT:** Once you receive the Class 001 stuff, the clock will start ticking on your assessment. So it will be a good idea to jump in and start coding as much as you can. 
 
 The application will gather sensitive information from you. I will use your sensitive data only to provide you an accurate assessment. Once your relationship ends with Brightfence (that is, you stop taking any courses), I will anonymize your sensitive data by scrubbing your personally identifiable information from it, and then aggregate it to my statistics to help me improve my assessment accuracy for future students. Your contact information will be kept isolated, confidential and secure to use for future communications which you can opt out of at any time. 
 
