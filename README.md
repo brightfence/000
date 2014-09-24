@@ -40,6 +40,7 @@ Learning on your own is certainly a viable (and budget friendly) option. Here is
 That's it. While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula take hundreds of hours *each*). 
 
 <br>
+<a name="jumphere"></a>
 ## Option 2: Class 001
 
 <a name="why001"></a>
@@ -62,23 +63,15 @@ So if you have coder friends, mentors, or peers willing to help you, your overhe
 
 ### What is Class 001?
 
-Class 001 is a QUICK evaluator of your **Coding Potential ("CP")**. We can evaluate your **CP** between two weeks to six weeks - all while teaching you to code. Class 001 is designed
-
-1. To minimize "soft" topics and laser focus on coding
-2. To minimize overhead
-3. To be flexible (everyone goes at their own pace)
-4. To be affordable ($150/month)
-5. To provide an accurate CP assessment at the end
-
-Since many people ask, it helps to compare Class 001 to Coding Bootcamps to really understand the difference. 
+Class 001 is a QUICK evaluator of your **Coding Potential ("CP")**. We can evaluate your **CP** between two weeks to six weeks and then provide you the assessment results - all while teaching you to code. Comparing Class 001 to Coding Bootcamps can help explain what it is  well:
 
 |                                         | Bootcamps | Class 001 |
 | --------------------------------------  |:---------:|:---------:|
 | Purpose of course/class                 | Get a Dev Job | Fast Validation of Potential |
 | Target audience/students | Very smart people | Absolute beginners |
 | Curriculum scheduling                   | 3-mo intensive, Fixed | Self-paced, Flexible |
-| % Labs (paired or grouped)              | 50% | 90% |
-| % Curriculum lectures                   | 30% | 10% |
+| % Labs (paired or grouped)              | 50% | 50% |
+| % Curriculum lectures                   | 30% | 50% |
 | % Soft topics (guests, blogs, feelings) | 20% | 0% |
 | Outside-of-class pair programming?      | Varies | Yes |
 | Tuition                                 | $12,000 ($20/hr rate) | $150/mo. |
@@ -88,30 +81,29 @@ Since many people ask, it helps to compare Class 001 to Coding Bootcamps to real
 ## Prerequisites
 
 #### i. Gmail account
-[Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use a lot of Google services in the class so Gmail is required. On the plus side, if you don't use Gmail, it's a good time to modernize. Gmail is the most modern, robust, and safe mainstream email system out there. Some code bootcamps require Gmail as well. On Gmail, we recommend these settings:
+[Create a Gmail account](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default). We use Google services in class so Gmail is required. Gmail is a modern, robust, and has strong spam filtering. I recommend these settings:
 * General >> Maximum page size = 100
 * General >> Keyboard shortcut on
 * Forwarding >> Enable IMAP
-* Forwarding >> Auto Expunge OFF
-* Forwarding >> Move messages to Trash
 * Labs >> Enable Undo Send
 * Labs >> Enable Unread Message Icon
 
 #### ii. Github account
-[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that Github is essential  for developers. Create one using your Gmail account, if possible. 
+[create a Github account](https://github.com/). Don't worry about what this is for now. Just know that Github is essentialfor developers. Create one using your Gmail account, if possible. 
 
 Once you create your account, we recommend you go to [email settings](https://github.com/settings/emails) and check "Keep my email address private" at the bottom. 
 
 <a name="typing"></a>
 #### iii. Touch Typing
-A typical seasoned programmer types 80+ WPM. Some bootcamps require 60+ WPM. We require 40+ real WPM for 001. An inability to touch type is the single, greatest hurdle that must be first overcome to learn to code. 
+A typical programmer types 80+ WPM. Some bootcamps require 60+ WPM. We require 40+ real WPM for 001. An inability to touch type is the first hurdle to overcome in order to code. 
 
 [Test your typing here](http://touchtype.co/index.php/typing/tests/41). You should be able to consistently type 40+ *real WPM* on the test **without** looking at your keyboard. Here’s how we calculate *real WPM*: 
-`(Your raw WPM) * (% accuracy * % accuracy)`     For example:  `51 * (0.95 * 0.95)` = 46
 
-You should also score at least 30 real WPM on [this alpha numberic test](http://www.typeonline.co.uk/typingspeed_alpha_numeric.php). It's much harder, but it's important since coding requires typing numbers and special characters. 
+`(Your raw WPM) * (% accuracy * % accuracy)`     
 
-Since touch typing is the ability to type without looking at your keyboard, proper fingering is also very important. You may be able to hit 40 WPM with improper fingering, but you won't be able to do 80 WPM without correct fingering. So here are some places to learn:
+For example:  `51 * (0.95 * 0.95)` = 46
+
+Touch typing is the ability to type without looking, so proper fingering is important. Without good fingering, you'll never reach 80 WPM. Learn fingering here:
 * [For fingering: wikihow](http://www.wikihow.com/Teach-Yourself-to-Touch-Type)
 * [Keybr is nice](http://www.keybr.com/)
 * [Big brown bear](http://bigbrownbear.co.uk/learntotype/)
@@ -119,7 +111,7 @@ Since touch typing is the ability to type without looking at your keyboard, prop
 * [Typeonline](http://www.typeonline.co.uk/typingspeed.php)
 * [Typingweb](http://www.typingweb.com/tutor/)
 
-Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your important stuff. 
+Alternatively, you can practice by transcribing your hand-written stuff (like journals, diaries, letters, papers, etc.) into Word or Text files. This allows you to practice AND digitally archive your stuff. 
 
 #### iv. Three more requirements (can be done after applying)
 
