@@ -40,7 +40,7 @@ Learning on your own is certainly a viable (and budget friendly) option. Here is
 That's it. While the list doesn't seem exhaustive, it will actually keep you busy for months (Flatiron and App Academy's curricula take hundreds of hours *each*). 
 
 <br>
-## Option 2: BrightFence's Class 001
+## Option 2: Class 001
 
 <a name="why001"></a>
 ### Why 001?
@@ -135,7 +135,7 @@ Sessions are limited and are currently invite only.
 
 After you've fulfilled the above prerequisites, please set aside 30 minutes to complete the application when you are ready. It usually takes less time than that. 
 
-When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it. Once I receive your application, I will send some setup instructions before receiving the actual curriculum on the first day of class.  
+When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it. Once I receive your application, I will send some setup instructions before providing the curriculum on the first day of class.  
 
 > **IMPORTANT:** Once you receive the Class 001 stuff, the clock will start ticking on your assessment. So it will be a good idea to jump in and start coding as much as you can. 
 
