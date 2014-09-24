@@ -135,7 +135,7 @@ Sessions are limited and are currently invite only.
 
 After you've fulfilled the above prerequisites, please set aside 30 minutes to complete the application when you are ready. It usually takes less time than that. 
 
-When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it. Once I receive your application, I will send some setup instructions before providing the curriculum on the first day of class.  
+When you're ready, go [to the application here](https://docs.google.com/forms/d/1-VxvIEiTrPFZRQXZwfVRXB1uhxM9fZXfgUiGeKkOoSc/viewform) to complete it. Once I receive your application, I will send you additional setup follow up instructions.  
 
 > **IMPORTANT:** Once you receive the Class 001 stuff, the clock will start ticking on your assessment. So it will be a good idea to jump in and start coding as much as you can. 
 
